@@ -1,0 +1,33 @@
+name: Virus
+version: '1.1.3'
+main: com.virus.Main
+api-version: 1.18
+
+commands:
+  show:
+    descriptions: show
+    usage: /show
+
+  ClearChat:
+    descriptions: ClearChat
+    usage: /ClearChat
+
+  bk:
+    description: bk
+    usage: /bk
+
+  test:
+    description: test
+    usage: /test
+
+  clearItemOn:
+    description: clearItemOn
+    usage: /clearItemOn
+
+  clearItemOff:
+    description: clearItemOff
+    usage: /clearItemOff
+
+  reloadVirus:
+    description: reloadVirus
+    usage: /reloadVirus
