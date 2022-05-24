@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92d5babf-802e-46f5-8cfe-e0c6707ac069" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="27dSLX3iqLYyxJdXr46cF97Dq1o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/VirusPlugin&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;库&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\VirusPlugin\src\main\java\com\virus\Listener" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.virus.SQL" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.VirusPlugin build">
+    <configuration name="da" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="da" />
+      <module name="VirusPlugin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="VirusPlugin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testSql" />
+      <module name="VirusPlugin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VirusPlugin build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="DEFAULT" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="showDialogWithAdvancedSettings" value="false" />
+            <option name="threads" />
+            <option name="useMavenConfig" value="false" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="" />
+            <option name="workOffline" value="true" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="C:\Users\User\IdeaProjects\VirusPlugin" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.da" />
+        <item itemvalue="应用程序.test" />
+        <item itemvalue="应用程序.testSql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="92d5babf-802e-46f5-8cfe-e0c6707ac069" name="变更" comment="" />
+      <created>1649648415075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649648415075</updated>
+      <workItem from="1649648416273" duration="10661000" />
+      <workItem from="1649662251987" duration="285000" />
+      <workItem from="1649662723728" duration="2120000" />
+      <workItem from="1649675858561" duration="111000" />
+      <workItem from="1649678528700" duration="653000" />
+      <workItem from="1649689205377" duration="962000" />
+      <workItem from="1649734708358" duration="3719000" />
+      <workItem from="1649810173073" duration="4641000" />
+      <workItem from="1649819363268" duration="1675000" />
+      <workItem from="1649829965840" duration="1798000" />
+      <workItem from="1649835789072" duration="746000" />
+      <workItem from="1649836607917" duration="1231000" />
+      <workItem from="1649854813571" duration="1665000" />
+      <workItem from="1649918786562" duration="2913000" />
+      <workItem from="1649934289848" duration="2704000" />
+      <workItem from="1650023828161" duration="772000" />
+      <workItem from="1650088727364" duration="4274000" />
+      <workItem from="1650183609073" duration="3276000" />
+      <workItem from="1650240910355" duration="8522000" />
+      <workItem from="1650261867767" duration="2976000" />
+      <workItem from="1650539963429" duration="911000" />
+      <workItem from="1650540955719" duration="240000" />
+      <workItem from="1650778518256" duration="1069000" />
+      <workItem from="1650779902693" duration="7000" />
+      <workItem from="1650783441628" duration="2747000" />
+      <workItem from="1650794491917" duration="2230000" />
+      <workItem from="1650805390409" duration="1306000" />
+      <workItem from="1650870966062" duration="1242000" />
+      <workItem from="1650901373870" duration="283000" />
+      <workItem from="1650970923729" duration="84000" />
+      <workItem from="1651281794135" duration="584000" />
+      <workItem from="1651304027428" duration="7327000" />
+      <workItem from="1651325259961" duration="133000" />
+      <workItem from="1651393292465" duration="234000" />
+      <workItem from="1651396113398" duration="14000" />
+      <workItem from="1651397001829" duration="2336000" />
+      <workItem from="1651473622168" duration="5181000" />
+      <workItem from="1651493952863" duration="608000" />
+      <workItem from="1651568859632" duration="8071000" />
+      <workItem from="1651588533285" duration="1585000" />
+      <workItem from="1651646859814" duration="750000" />
+      <workItem from="1651734373217" duration="141000" />
+      <workItem from="1651735107416" duration="764000" />
+      <workItem from="1651738287649" duration="3692000" />
+      <workItem from="1651838606049" duration="20000" />
+      <workItem from="1651839408116" duration="2876000" />
+      <workItem from="1651899351457" duration="1260000" />
+      <workItem from="1651923325967" duration="36000" />
+      <workItem from="1651923374508" duration="11000" />
+      <workItem from="1651986792527" duration="534000" />
+      <workItem from="1651995459279" duration="2765000" />
+      <workItem from="1652058957926" duration="242000" />
+      <workItem from="1652060083577" duration="51000" />
+      <workItem from="1652595645459" duration="91000" />
+      <workItem from="1653184864958" duration="710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
